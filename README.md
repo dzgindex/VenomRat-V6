@@ -1,2 +1,1 @@
-# VenomRat-V6
-Venom Rat Latest Version 6
+Venom RAT (Remote Access Trojan) is a powerful, lightweight tool designed for remote control of compromised systems. It provides attackers with full access to the victim’s machine, allowing them to execute commands, monitor activity, and steal sensitive data. Venom RAT is equipped with multiple features such as keylogging, file management, screen capture, and remote command execution. This tool is often used for malicious purposes, but can also be studied for educational and research purposes in cybersecurity.
